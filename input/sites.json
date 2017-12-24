@@ -1,0 +1,228 @@
+{
+	"kruidvat": {
+		"page_start_index": 0,
+		"prod_link": ".//div/a[@class=\"c-product__link\"]/@href",
+		"match_rules": {
+			"matches": [{
+					"weightage": 100,
+					"attribute": "name",
+					"value": "//*[@class=\"c-product-title\"]/h1"
+				}
+			],
+			"cut_off": 30
+		},
+		"apis": "",
+		"search_key": "&q=",
+		"screenshots_path": "screenshots",
+		"base_url": "http://www.kruidvat.nl",
+		"page_size": 20,
+		"report_name": "kruidvat_report.xml",
+		"page_key": "&page=",
+		"img_embedded": ["images", "pathLarge"],
+		"collections": [{
+				"map": "name",
+				"type": "product_summary",
+				"value": "//*[@class=\"c-product-title\"]/h1",
+				"multiple": "no"
+			}, {
+				"map": "image-urls",
+				"type": "product_summary",
+				"value": "//div[@class=\"c-carousel-vertical c-carousel-vertical--enlarge\"]/@data-config",
+				"multiple": "yes"
+			}, {
+				"map": "categories",
+				"type": "main",
+				"value": "//div[@class=\"container-content\"]/div[1]/section/article/ul/li",
+				"multiple": "yes"
+			}, {
+				"map": "selling_price",
+				"type": "main",
+				"value": "//section/div/p/span[@class=\"price\"]",
+				"multiple": "yes"
+			}, {
+				"map": "standard_price",
+				"type": "main",
+				"value": "//section/div/p/span[@class=\"list-price\"]",
+				"multiple": "no"
+			}, {
+				"map": "currency",
+				"type": "main",
+				"value": ".//span[@itemprop=\"priceCurrency\"]/@content",
+				"multiple": "no"
+			}
+		],
+		"currency_symbol": "EUR",
+		"search_base_url": "https://www.kruidvat.nl/search?size=20&sort=score",
+		"row_loc": "//article[@class=\"c-product\"]",
+		"order": false
+	},
+	"jumbo": {
+		"page_start_index": 0,
+		"prod_link": ".//h3/a/@href",
+		"search_url": "http://www.jumbo.com/zoeken?SearchTerm=",
+		"apis": "",
+		"search_key": "&SearchTerm=",
+		"screenshots_path": "screenshots",
+		"base_url": "http://www.jumbo.com",
+		"page_size": 12,
+		"report_name": "jumbo_report.xml",
+		"page_key": "PageNumber=",
+		"collections": [{
+				"map": "name",
+				"type": "product_summary",
+				"value": "//*[@id=\"maincontent\"]/article/div/h1",
+				"multiple": "no"
+			}, {
+				"map": "image-urls",
+				"type": "product_summary",
+				"value": "//figure[@class=\"jum-product-image\"]/img/@data-jum-src",
+				"multiple": "yes"
+			}, {
+				"map": "categories",
+				"type": "main",
+				"value": "",
+				"multiple": "yes"
+			}, {
+				"map": "selling_price",
+				"type": "main",
+				"value": "//div/span[@class=\"jum-price-format\"]",
+				"multiple": "no"
+			}, {
+				"map": "standard_price",
+				"type": "main",
+				"value": "//div/span[@class=\"jum-price-format\"]",
+				"multiple": "no"
+			}
+		],
+		"prod_end_flag": ";",
+		"match_rules": {
+			"matches": [{
+					"weightage": 100,
+					"attribute": "name",
+					"value": "//*[@id=\"maincontent\"]/article/div/h1"
+				}
+			],
+			"cut_off": 80
+		},
+		"currency_symbol": "EUR",
+		"search_base_url": "http://www.jumbo.com/producten?",
+		"row_loc": "//li[contains(@id,\"sku\")]",
+		"order": false,
+		"blocked": "access denied"
+	},
+	"walmart": {
+		"page_start_index": 1,
+		"prod_link": ".//a[@class=\"js-product-title\"]/@href",
+		"match_rules": {
+			"matches": [{
+					"weightage": 100,
+					"attribute": "name",
+					"value": ".//h2[@itemprop=\"name\"]"
+				}
+			],
+			"cut_off": 90
+		},
+		"apis": "",
+		"search_key": "query=",
+		"screenshots_path": "screenshots",
+		"base_url": "http://www.walmart.com",
+		"page_size": 20,
+		"report_name": "walmart_report.xml",
+		"page_key": "&page=",
+		"collections": [{
+				"map": "name",
+				"type": "product_summary",
+				"value": ".//h2[@itemprop=\"name\"]",
+				"multiple": "no"
+			}, {
+				"map": "image-urls",
+				"type": "product_summary",
+				"value": ".//img[@class=\"prod-HeroImage-image prod-HeroImage-imageZoomable\"]/@src",
+				"multiple": "yes"
+			}, {
+				"map": "categories",
+				"type": "main",
+				"value": ".//ol/li",
+				"multiple": "yes"
+			}, {
+				"map": "selling_price",
+				"type": "main",
+				"value": ".//span[@itemprop=\"price\"]/@content",
+				"multiple": "no"
+			}, {
+				"map": "standard_price",
+				"type": "main",
+				"value": ".//span[@type=\"List price\"]",
+				"multiple": "no"
+			}, {
+				"map": "currency",
+				"type": "main",
+				"value": ".//span[@itemprop=\"priceCurrency\"]/@content",
+				"multiple": "no"
+			}
+		],
+		"prod_end_flag": "?",
+		"currency_symbol": "USD",
+		"search_base_url": "https://www.walmart.com/search/?",
+		"row_loc": "//div[@data-item-id]",
+		"order": true,
+		"blocked": "access denied"
+	},
+	"bol": {
+		"page_start_index": 1,
+		"prod_link": ".//a[@class=\"product-title\"]/@href",
+		"match_rules": {
+			"matches": [{
+					"weightage": 100,
+					"attribute": "name",
+					"value": ".//h1[@itemprop=\"name\"]"
+				}
+			],
+			"cut_off": 90
+		},
+		"apis": "",
+		"screenshots_path": "screenshots",
+		"search_key": "&searchtext=",
+		"base_url": "http://www.bol.com",
+		"page_size": 24,
+		"report_name": "bol_report.xml",
+		"page_key": "page=",
+		"collections": [{
+				"map": "name",
+				"type": "product_summary",
+				"value": ".//h1[@itemprop=\"name\"]",
+				"multiple": "no"
+			}, {
+				"map": "image-urls",
+				"type": "product_summary",
+				"value": ".//img[@itemprop=\"image\"]/@src",
+				"multiple": "yes"
+			}, {
+				"map": "categories",
+				"type": "main",
+				"value": ".//ul/li[@itemprop=\"itemListElement\"]",
+				"multiple": "yes"
+			}, {
+				"map": "selling_price",
+				"type": "main",
+				"value": ".//meta[@itemprop=\"price\"]/@content",
+				"multiple": "no"
+			}, {
+				"map": "standard_price",
+				"type": "main",
+				"value": ".//del[@class=\"buy-block__list-price\"]",
+				"multiple": "no"
+			}, {
+				"map": "currency",
+				"type": "main",
+				"value": ".//meta[@itemprop=\"priceCurrency\"]/@content",
+				"multiple": "no"
+			}
+		],
+		"currency_symbol": "EUR",
+		"search_base_url": "https://www.bol.com/nl/s/index.html?",
+		"row_loc": "//li[@itemtype=\"http://schema.org/Product\"]",
+		"order": false,
+		"blocked": "ip adres geblokkeerd"
+	}
+}

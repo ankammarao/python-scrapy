@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<inputs>
+	<input type="product">
+		<syndy-id>4544736D-B83C-4428-A8CE-1C5DD23F35CB</syndy-id>
+		<barcode>4005808682539</barcode>
+		<name>NIVEA Color Care &amp; Protect Mousse </name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/4544736d-b83c-4428-a8ce-1c5dd23f35cb/images/a9f_NrgUWEmecWqdZ7G4hA...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>Styling Spray</description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>1E20DD6D-7E4B-4F3F-BFF3-3BD04FFCD51B</syndy-id>
+		<barcode>4005808697090</barcode>
+		<name>NIVEA Ultra Strong Gel</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/1e20dd6d-7e4b-4f3f-bff3-3bd04ffcd51b/images/4g5FTL5A-0-DQUuTiUC-2w...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>Hairspray</description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>0DD87923-063A-44D5-953D-4B24F6F17208</syndy-id>
+		<barcode>4005808682416</barcode>
+		<name>NIVEA Diamond Gloss Mousse</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/0dd87923-063a-44d5-953d-4b24f6f17208/images/tVUJ0_ts1UmSuMibUjwqNg...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>Volume Sensation Spray</description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>E80822E2-178B-46CD-A43A-5336104A9FFE</syndy-id>
+		<barcode>4005808682591</barcode>
+		<name>NIVEA Ultra Strong Mousse</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/e80822e2-178b-46cd-a43a-5336104a9ffe/images/h965Sxpdm0CebSgC_ZbH8g...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>Gloss Hairspray</description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>DA76D6F9-BFF1-4CC8-A0AB-E51B06EBFC53</syndy-id>
+		<barcode>4005808682478</barcode>
+		<name>N</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/da76d6f9-bff1-4cc8-a0ab-e51b06ebfc53/images/LgaGlO5cM0SzHFhBj3o7Ig...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>Strong Styling Spray</description-short>
+	</input>
+	<input type="product">
+		<syndy-id>56AC7D7F-2819-4B7E-8684-F4A0B4091B16</syndy-id>
+		<barcode>4005900161673</barcode>
+		<name>NIVEA Mega Strong styling spray</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/56ac7d7f-2819-4b7e-8684-f4a0b4091b16/images/Q9RjA3grOEue1Fn7rXDdog...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>Strong Styling Mousse</description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>BAE61764-0664-421B-A896-F8F8BC04506A</syndy-id>
+		<barcode>4005808682034</barcode>
+		<name>NIVEA Ultra Strong Hairspray</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/bae61764-0664-421b-a896-f8f8bc04506a/images/waOR0Q8RG0CBnhbR6-TJqg...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>Haar Mousse</description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>8CFD4AE0-5F7E-47F9-AC2C-133EA29E5645</syndy-id>
+		<barcode>4005900022691</barcode>
+		<name>NIVEA MEN Sensitive Cooling Aftershave Balsem</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/8cfd4ae0-5f7e-47f9-ac2c-133ea29e5645/images/hTdEz3RjKkGv7w0cFaIIdA...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>Voor mannen die onmiddellijke verkoeling en bescherming tegen irritatie willen.</description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>00E1E156-3ADC-4414-BE21-8D78EA784684</syndy-id>
+		<barcode>4005808224098</barcode>
+		<name>NIVEA MEN Sensitive Gezichtscrème</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/00e1e156-3adc-4414-be21-8d78ea784684/images/aoHCS-H2cUGjJv--YMMquQ...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>De extra milde formule met Zoethoutwortelextract, Kamille en UVA &amp; UVB filters.</description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>435308BF-7BD4-4D79-8179-81A5A5B2A592</syndy-id>
+		<barcode>4005808432769</barcode>
+		<name>NIVEA SUN Protect &amp; Bronze Zonnemelk SPF 20 200ml</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/435308bf-7bd4-4d79-8179-81a5a5b2a592/images/0tefIC0orUO4Gp3Sinsmjw...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>De Protect &amp; Bronze Zonnemelk combineert bescherming en natuurlijke bruining van de huid. </description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>C77D6B5F-D8B7-4A9D-ADEF-81F082EB0B43</syndy-id>
+		<barcode>4005808408283</barcode>
+		<name>NIVEA SUN Protect &amp; Hydrate Zonnemelk SPF 50+</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/c77d6b5f-d8b7-4a9d-adef-81f082eb0b43/images/dhvZRm45akKVOcEb3Krwfw...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>De verzorgende formule zorgt voor betrouwbare bescherming en langdurige hydratatie met het effectieve uva/uvb-filtersysteem. </description-short>
+	</input>
+	<input type="product">
+		<syndy-id>649941E9-48AB-4FED-8D6F-42D77C2EDB5E</syndy-id>
+		<barcode>4005808804511</barcode>
+		<name>NIVEA SUN Protect &amp; Hydrate Zonnespray SPF 20</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/649941e9-48ab-4fed-8d6f-42d77c2edb5e/images/0g5kCYTmK0-BVkD6Mr6bfA...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>De Protect &amp; Hydrate Zonnespray biedt verzorging verzacht en beschermt de huid. </description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>CD098533-8F7F-44F2-BD37-53DF55AC0C58</syndy-id>
+		<barcode>4005808653539</barcode>
+		<name>NIVEA SUN Protect &amp; Bronze Zonnespray SPF 30</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/cd098533-8f7f-44f2-bd37-53df55ac0c58/images/Xji7d_ebdUi1GpMfT6bIZA...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>De Protect &amp; Bronze Zonnespray combineert bescherming en natuurlijke bruining van de huid. </description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>2E49F54F-5BCD-4943-9A5F-5868CD78EAE5</syndy-id>
+		<barcode>4005808459964</barcode>
+		<name>NIVEA SUN Protect &amp; Hydrate Zonnemelk SPF 15</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/2e49f54f-5bcd-4943-9a5f-5868cd78eae5/images/FOPSJiwp80K2myHJ9opVNA...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>De verzorgende formule zorgt voor betrouwbare bescherming en langdurige hydratatie met het effectieve uva/uvb-filtersysteem. </description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>1EDA0822-F94F-448A-9BB4-623380CBA61F</syndy-id>
+		<barcode>4005808407552</barcode>
+		<name>NIVEA SUN Protect &amp; Hydrate Zonnemelk SPF 20</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/1eda0822-f94f-448a-9bb4-623380cba61f/images/2GT0imh5mEK5tYpCl4Sd7A...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>De verzorgende formule zorgt voor betrouwbare bescherming en langdurige hydratatie met het effectieve uva/uvb-filtersysteem. </description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>385973F4-199C-464F-AE41-0BE8A93D957A</syndy-id>
+		<barcode>4005808653829</barcode>
+		<name>NIVEA SUN Protect &amp; Bronze Zonnespray SPF 20</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/385973f4-199c-464f-ae41-0be8a93d957a/images/5fB04T_An06TwzemEbKkUg...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>De Protect &amp; Bronze Zonnespray combineert bescherming en natuurlijke bruining van de huid. </description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>FF72D6A5-5ED8-44D1-AB25-05A9D210370E</syndy-id>
+		<barcode>4005808653492</barcode>
+		<name>NIVEA SUN Protect &amp; Bronze Zonnespray SPF 10</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/ff72d6a5-5ed8-44d1-ab25-05a9d210370e/images/bhhAm5XAmkeWiYLQx_uvpA...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>De Protect &amp; Bronze Zonnespray combineert bescherming en natuurlijke bruining van de huid. </description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>CE821D1F-8DA6-43E8-ADDD-99201800C66A</syndy-id>
+		<barcode>4005808769483</barcode>
+		<name>NIVEA SUN Pocket Size Adults SPF 30</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/ce821d1f-8da6-43e8-addd-99201800c66a/images/sdrIwu0_X0K1QMz-gQQ3fw...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>De verzorgende formule zorgt voor betrouwbare bescherming en langdurige hydratatie met het effectieve uva/uvb-filtersysteem. </description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>A985F339-2572-41EB-9AB9-9DC5B0DE40AF</syndy-id>
+		<barcode>4005808433469</barcode>
+		<name>NIVEA SUN Protect &amp; Bronze Zonnemelk SPF 30</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/a985f339-2572-41eb-9ab9-9dc5b0de40af/images/2Hqz8R1EqEaXrjSJpa1v4w...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>De Protect &amp; Bronze Zonnemelk combineert bescherming en natuurlijke bruining van de huid. </description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>2DA8F9BD-6677-4B94-9D23-DF55B9545C17</syndy-id>
+		<barcode>4005808856671</barcode>
+		<name>NIVEA SUN Kids Hydraterende Zonnespray Gekleurd SPF 50+</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/2da8f9bd-6677-4b94-9d23-df55b9545c17/images/2wE77jzUZEmh3XOCyGyiqA...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>NIVEA SUN Kids Hydraterende Zonnespray Gekleurd SPF 50+</description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>824B2156-C8BD-4307-B88B-FBAA3ABE8218</syndy-id>
+		<barcode>4005808475872</barcode>
+		<name>NIVEA SUN Kids Swim and Play Zonnemelk SPF 50+</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/824b2156-c8bd-4307-b88b-fbaa3abe8218/images/9BoKYV7f50K9oKB7-JDyBQ...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>De formule van de Kids Swim &amp; Play Zonnemelk is speciaal ontwikkeld voor de gevoelige kinderhuid.</description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>2B2E8587-8CC7-4E70-BFFD-9250C46AD36E</syndy-id>
+		<barcode>4005900017062</barcode>
+		<name>NIVEA MEN Elastic Styling Gel 150ml</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/2b2e8587-8cc7-4e70-bffd-9250c46ad36e/images/uUcm3xa11UGn_HCx8DoybA...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>De elastische style - De naam zegt het al - of eigenlijk bijna, want om achter het ware geheim te komen moet je de nieuwe alcoholvrije gel formule zelf ervaren. </description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>9554373E-A2E6-4148-855D-09E899722AE5</syndy-id>
+		<barcode>4005900183231</barcode>
+		<name>NIVEA Creme Gel 150ml</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/9554373e-a2e6-4148-855d-09e899722ae5/images/hDytxFMeWESILklpCIZDGQ...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>NIVEA Creme Gel.</description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>9D4CDE0D-D584-4891-8289-0B0F6229A642</syndy-id>
+		<barcode>4005900137562</barcode>
+		<name>NIVEA MEN Styling Cream</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/9d4cde0d-d584-4891-8289-0b0f6229a642/images/iXPtQqCBj0aF8l6TNrJ3hA...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>De nieuwe NIVEA MEN Styling Cream - voor een natuurlijke look en gezonde glans.</description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>9EF93BF1-017C-44A8-87DE-40518D155882</syndy-id>
+		<barcode>4005808292851</barcode>
+		<name>NIVEA MEN Aqua Styling Gel 150ml</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/9ef93bf1-017c-44a8-87de-40518d155882/images/m0gBLzQSpk6kc3XLIyPLAQ...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>Deze innovatieve formule geeft een extreme 'wet-look' en glans.</description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>962395DD-482D-4638-ABF2-651078B604EC</syndy-id>
+		<barcode>4005808764983</barcode>
+		<name>NIVEA MEN Power Styling Gel 150ml</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/962395dd-482d-4638-abf2-651078b604ec/images/6ieIHQyZZkGplnvpcec9GQ...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>Sterke, blijvende fixatie - Voor wie op zoek is naar een onverslaanbare gel die zich langdurig hecht, is NIVEA MEN Power Styling Gel het antwoord.</description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>FDD5EEE1-3408-4469-BA8A-66D3281BF3FA</syndy-id>
+		<barcode>4005808377169</barcode>
+		<name>NIVEA MEN Philishave Coolskin</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/fdd5eee1-3408-4469-ba8a-66d3281bf3fa/images/nAlSgZT9O0qPncvoFZzYQg...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>De Philips Shaving Conditioner van NIVEA MEN kalmeert en hydrateert de huid tijdens het scheren en voorkomt irritaties. </description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>6DCBFE67-1CB3-4F42-B006-8BA45AF0A554</syndy-id>
+		<barcode>4005900269164</barcode>
+		<name>NIVEA MEN Sensitive Scheerschuim</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/6dcbfe67-1cb3-4f42-b006-8ba45af0a554/images/BNNCJfPV_U6t_HRo6hKIRw...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>Extra milde, parfum neutrale formule met kamille en verzorgende Vitaminen. </description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>090C76DE-A1C7-485A-91D1-49ED34947668</syndy-id>
+		<barcode>4005900080400</barcode>
+		<name>NIVEA MEN Sensitive Cooling Scheergel</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/090c76de-a1c7-485a-91d1-49ed34947668/images/KkUywwCWR0G_jvF-Z2nRCA...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>De nieuwe alcohol-vrĳe Sensitive Cooling Shaving Gel is het optimale scheerproduct tegen de geïrriteerde huid.</description-short>
+	</input>
+	<input type="product">
+		<syndy-id>424C627F-9EA5-4F79-92F4-5C332CD4CFCB</syndy-id>
+		<barcode>4005808223039</barcode>
+		<name>NIVEA MEN Originals Scheergel</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/424c627f-9ea5-4f79-92f4-5c332cd4cfcb/images/hmqNBSiK4keRNqTp_SqEaQ...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>Originals Vochtinbrengende Scheergel</description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>4D8153B3-4068-4CA0-9E42-5CA3DF97967E</syndy-id>
+		<barcode>4005900269195</barcode>
+		<name>NIVEA MEN Originals Vochtinbrengende Scheerschuim</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/4d8153b3-4068-4ca0-9e42-5ca3df97967e/images/f0BC-T4OKkGeZLQrI4gTNA...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>Zeer rijk schuim met vochtinbrengende ingrediënten en verzorgende Vitaminen die de droge en trekkerige huid beschermt. </description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>BAFFAC73-AEFB-40A3-B47B-2D79F8E036A9</syndy-id>
+		<barcode>4005808933341</barcode>
+		<name>NIVEA MEN Sensitive Scheerschuim</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/baffac73-aefb-40a3-b47b-2d79f8e036a9/images/5Z0EQLdI9E-I6EZo4F9ZOw...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>Extra milde, parfum neutrale formule met kamille en verzorgende Vitaminen.</description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>F509A033-3D7D-4D93-B11B-AE971DE0CCEC</syndy-id>
+		<barcode>4005808222919</barcode>
+		<name>NIVEA MEN Sensitive Scheergel</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/f509a033-3d7d-4d93-b11b-ae971de0ccec/images/VRt8gzKhS0C07ACDta8hMw...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>Extra milde, parfum neutrale formule met kamille en verzorgende Vitaminen.</description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>9EA5EFBF-7DAD-423C-95D1-B6ABA0BAD7BA</syndy-id>
+		<barcode>4005808390816</barcode>
+		<name>NIVEA MEN Extreme Comfort Scheerschuim</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/9ea5efbf-7dad-423c-95d1-b6aba0bad7ba/images/oqzRbk9-TkKDfnnkoXjs0A...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>Irritaties tijdens het scheren? Maak het extreem comfortabel voor jezelf. It starts with you!</description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>E9F55302-4D6A-419A-B375-C07FCB696381</syndy-id>
+		<barcode>4005900203809</barcode>
+		<name>NIVEA MEN Active Energy Shaving Gel</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/e9f55302-4d6a-419a-b375-c07fcb696381/images/5qZqTymcy0G6Vy2orLFjxA...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>Scheergel</description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>57682CA8-2FF7-4305-924A-E5BC36479B35</syndy-id>
+		<barcode>4005900163288</barcode>
+		<name>NIVEA MEN Sensitive Cooling Scheerschuim</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/57682ca8-2ff7-4305-924a-e5bc36479b35/images/6DIVCY-QD0Ck1IdCQz77FQ...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>De alcoholvrĳe Sensitive Cooling Scheerschuim van NIVEA MEN is het optimale scheerproduct voor de gevoelige huid.</description-short>
+	</input>
+	<input type="product">
+		<syndy-id>E228C4FC-704F-4BBD-BF48-D58A26D7883E</syndy-id>
+		<barcode>4005808186143</barcode>
+		<name>NIVEA MEN Extreme Comfort Scheergel</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/e228c4fc-704f-4bbd-bf48-d58a26d7883e/images/n8gBREC9sEGH8z31SJ_T7A...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>De succesvolle formule met natuurlijke MICRO TEC maakt het mogelijk om extreem glad te scheren met minder huidirritatie. </description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>54FBA73F-DDFB-4686-AB0C-FB28C52E8BEF</syndy-id>
+		<barcode>8715200813009</barcode>
+		<name>NIVEA MEN Originals Vochtinbrengende Aftershave Balsem</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/54fba73f-ddfb-4686-ab0c-fb28c52e8bef/images/GSj1xIcBu0SVW7w-4hixLw...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>Originals Vochtinbrengende Aftershave Balsem</description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>9A5AB61D-0EE8-4EA4-8C61-FC152F87EED3</syndy-id>
+		<barcode>42283447</barcode>
+		<name>NIVEA Fresh Comfort Roll-On 50ml</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/9a5ab61d-0ee8-4ea4-8c61-fc152f87eed3/images/tH1Sx_RE20-zHZ-PctjZeA...jpeg</value>
+			</image-url>
+		</image-urls>
+		<description-short>De NIVEA Fresh Comfort biedt een heerlijke frisse, zachte en betrouwbare bescherming. </description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+	<input type="product">
+		<syndy-id>04FDD731-F02B-4464-B878-C304059D60D9</syndy-id>
+		<barcode>4005900184016 </barcode>
+		<name>NIVEA Stress Protect Spray Vrouw 100ml</name>
+		<brand-name>Nivea</brand-name>
+		<manufacturer-name>Beiersdorf N.V.</manufacturer-name>
+		<image-urls>
+			<image-url profile-image="true">
+				<value>http://cdn.syndy.com/media/products/04fdd731-f02b-4464-b878-c304059d60d9/images/RqPCH3nu8UqlCKbOmnAgiA...png</value>
+			</image-url>
+		</image-urls>
+		<description-short>Met deze handige NIVEA Stress Protect Spray 100ml voor jou geen stress onderweg. </description-short>
+		<search-terms>
+			<search-term>
+				<value>Nivea</value>
+			</search-term>
+			<search-term>
+				<value>Haar mousse</value>
+			</search-term>
+			<search-term>
+				<value>Hairspray</value>
+			</search-term>
+		</search-terms>
+	</input>
+</inputs>

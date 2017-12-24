@@ -1,0 +1,19 @@
+{
+	"kruidvat": [],
+	"jumbo": [{
+			"domain": "www.jumbo.com",
+			"name": "pgid-Jumbo-Grocery-Site",
+			"value": "q7Ol6ueiLUZSRp8ARC4qW8HO0000rifuskwo"
+		}, {
+			"domain": "www.jumbo.com",
+			"name": "HomeStore",
+			"value": "R74KYx4XucoAAAFIqY8YwKxK"
+		}, {
+			"domain": "www.jumbo.com",
+			"name": "cc-xlEKYx4XOMoAAAFIZCYr3jVo",
+			"value": "JbgKYx4dmwMAAAFXWNkt5wkr"
+		}
+	],
+	"walmart": [],
+	"bol": []
+}
