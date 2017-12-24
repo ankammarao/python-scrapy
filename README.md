@@ -35,7 +35,6 @@ No of webdrivers per site to capture screenshots: 4
 
 Usage
 -----
-cd /path/to/main/folder/
 python start.py
 
 Limitation
