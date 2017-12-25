@@ -1,6 +1,14 @@
 # python-scrapy
 Scraping of websites using python
 
+*For each website, generate a search URL and the traversal URL - for traversing to next page in search results 
+*For each search page results, get the product URL
+*For each product URL, extract the details 
+*Validate the product in comparison with the searched key word 
+*Storing all the results in XML format - one XML per site - linking which result id for which input.
+*With this information, I can get all available products on each website that are similar to each input. 
+
+
 Requirements
 -------------
 Windows 7 (should work on other platforms as well but not tested yet.)
